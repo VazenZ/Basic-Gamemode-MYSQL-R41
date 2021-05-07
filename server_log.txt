@@ -1,0 +1,2417 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:59:14] filterscripts = ""  (string)
+[09:59:14] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:59:43] filterscripts = ""  (string)
+[09:59:43] 
+[09:59:43] Server Plugins
+[09:59:43] --------------
+[09:59:43]  Loaded 0 plugins.
+
+[09:59:43] 
+[09:59:43] Filterscripts
+[09:59:43] ---------------
+[09:59:43]   Loaded 0 filterscripts.
+
+[09:59:43] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[09:59:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:00:22] filterscripts = ""  (string)
+[10:00:22] 
+[10:00:22] Server Plugins
+[10:00:22] --------------
+[10:00:22]  Loading plugin: mysql
+[10:00:22]   Failed.
+[10:00:22]  Loaded 0 plugins.
+
+[10:00:22] 
+[10:00:22] Filterscripts
+[10:00:22] ---------------
+[10:00:22]   Loaded 0 filterscripts.
+
+[10:00:22] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[10:00:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:00:38] filterscripts = ""  (string)
+[10:00:38] 
+[10:00:38] Server Plugins
+[10:00:38] --------------
+[10:00:38]  Loading plugin: mysql
+[10:00:38]   Failed.
+[10:00:38]  Loaded 0 plugins.
+
+[10:00:38] 
+[10:00:38] Filterscripts
+[10:00:38] ---------------
+[10:00:38]   Loaded 0 filterscripts.
+
+[10:00:38] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[10:00:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:01:17] filterscripts = ""  (string)
+[10:01:17] 
+[10:01:17] Server Plugins
+[10:01:17] --------------
+[10:01:17]  Loading plugin: mysql
+[10:01:18]  >> plugin.mysql: R41-4 successfully loaded.
+[10:01:18]   Loaded.
+[10:01:18]  Loaded 1 plugins.
+
+[10:01:18] 
+[10:01:18] Filterscripts
+[10:01:18] ---------------
+[10:01:18]   Loaded 0 filterscripts.
+
+[10:01:18] Mysql connection success!
+[10:01:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:27:28] filterscripts = ""  (string)
+[10:27:28] 
+[10:27:28] Server Plugins
+[10:27:28] --------------
+[10:27:28]  Loading plugin: mysql
+[10:27:28]  >> plugin.mysql: R41-4 successfully loaded.
+[10:27:28]   Loaded.
+[10:27:28]  Loaded 1 plugins.
+
+[10:27:28] 
+[10:27:28] Filterscripts
+[10:27:28] ---------------
+[10:27:28]   Loaded 0 filterscripts.
+
+[10:27:28] Mysql connection success!
+[10:27:28] Number of vehicle models: 0
+[10:28:18] [connection] incoming connection: 114.125.69.200:53046 id: 0
+[10:28:19] [join] Malih_Santoso has joined the server (0:114.125.69.200)
+[10:28:33] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:46:17] filterscripts = ""  (string)
+[10:46:17] 
+[10:46:17] Server Plugins
+[10:46:17] --------------
+[10:46:17]  Loading plugin: mysql
+[10:46:17]  >> plugin.mysql: R41-4 successfully loaded.
+[10:46:17]   Loaded.
+[10:46:17]  Loaded 1 plugins.
+
+[10:46:17] 
+[10:46:17] Filterscripts
+[10:46:17] ---------------
+[10:46:17]   Loaded 0 filterscripts.
+
+[10:46:17] Mysql connection success!
+[10:46:17] Number of vehicle models: 0
+[10:46:42] [connection] incoming connection: 114.125.69.200:36151 id: 0
+[10:46:42] [join] Malih_Santoso has joined the server (0:114.125.69.200)
+[10:46:57] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:52:18] filterscripts = ""  (string)
+[10:52:18] 
+[10:52:18] Server Plugins
+[10:52:18] --------------
+[10:52:18]  Loading plugin: mysql
+[10:52:18]  >> plugin.mysql: R41-4 successfully loaded.
+[10:52:18]   Loaded.
+[10:52:18]  Loaded 1 plugins.
+
+[10:52:18] 
+[10:52:18] Filterscripts
+[10:52:18] ---------------
+[10:52:18]   Loaded 0 filterscripts.
+
+[10:52:18] Mysql connection success!
+[10:52:18] Number of vehicle models: 0
+[10:52:43] [connection] incoming connection: 114.125.69.200:34129 id: 0
+[10:52:43] [join] Malih_Santoso has joined the server (0:114.125.69.200)
+[10:52:53] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:05:25] filterscripts = ""  (string)
+[11:05:25] 
+[11:05:25] Server Plugins
+[11:05:25] --------------
+[11:05:25]  Loading plugin: mysql
+[11:05:25]  >> plugin.mysql: R41-4 successfully loaded.
+[11:05:25]   Loaded.
+[11:05:25]  Loaded 1 plugins.
+
+[11:05:25] 
+[11:05:25] Filterscripts
+[11:05:25] ---------------
+[11:05:25]   Loaded 0 filterscripts.
+
+[11:05:25] Mysql connection success!
+[11:05:25] Number of vehicle models: 0
+[11:05:52] [connection] incoming connection: 114.125.69.200:35025 id: 0
+[11:05:53] [join] Malih_Santoso has joined the server (0:114.125.69.200)
+[11:06:01] [part] Malih_Santoso has left the server (0:1)
+[11:08:07] [connection] incoming connection: 114.125.69.200:57276 id: 0
+[11:08:08] [join] Malih_Santoso has joined the server (0:114.125.69.200)
+[11:08:29] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:49:07] filterscripts = ""  (string)
+[12:49:07] 
+[12:49:07] Server Plugins
+[12:49:07] --------------
+[12:49:07]  Loading plugin: mysql
+[12:49:07]  >> plugin.mysql: R41-4 successfully loaded.
+[12:49:07]   Loaded.
+[12:49:07]  Loaded 1 plugins.
+
+[12:49:07] 
+[12:49:07] Filterscripts
+[12:49:07] ---------------
+[12:49:07]   Loaded 0 filterscripts.
+
+[12:49:07] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[12:49:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:49:39] filterscripts = ""  (string)
+[12:49:39] 
+[12:49:39] Server Plugins
+[12:49:39] --------------
+[12:49:39]  Loading plugin: mysql
+[12:49:39]  >> plugin.mysql: R41-4 successfully loaded.
+[12:49:39]   Loaded.
+[12:49:39]  Loading plugin: pawncmd
+[12:49:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:49:39]   Loaded.
+[12:49:39]  Loaded 2 plugins.
+
+[12:49:39] 
+[12:49:39] Filterscripts
+[12:49:39] ---------------
+[12:49:39]   Loaded 0 filterscripts.
+
+[12:49:39] Mysql connection success!
+[12:49:39] Number of vehicle models: 0
+[12:50:21] [connection] incoming connection: 114.125.85.222:43395 id: 0
+[12:50:22] [join] Malih_Santoso has joined the server (0:114.125.85.222)
+[12:50:33] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:22] filterscripts = ""  (string)
+[14:09:22] 
+[14:09:22] Server Plugins
+[14:09:22] --------------
+[14:09:22]  Loading plugin: mysql
+[14:09:22]  >> plugin.mysql: R41-4 successfully loaded.
+[14:09:22]   Loaded.
+[14:09:22]  Loading plugin: pawncmd
+[14:09:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:09:22]   Loaded.
+[14:09:22]  Loaded 2 plugins.
+
+[14:09:22] 
+[14:09:22] Filterscripts
+[14:09:22] ---------------
+[14:09:22]   Loaded 0 filterscripts.
+
+[14:09:22] Script[gamemodes/GM.amx]: Run time error 19: "File or function is not found"
+[14:09:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:10:19] filterscripts = ""  (string)
+[14:10:19] 
+[14:10:19] Server Plugins
+[14:10:19] --------------
+[14:10:19]  Loading plugin: mysql
+[14:10:19]  >> plugin.mysql: R41-4 successfully loaded.
+[14:10:19]   Loaded.
+[14:10:19]  Loading plugin: pawncmd
+[14:10:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:10:19]   Loaded.
+[14:10:19]  Loading plugin: sscanf
+[14:10:19] 
+
+[14:10:19]  ===============================
+
+[14:10:19]       sscanf plugin loaded.     
+
+[14:10:19]          Version:  2.8.3        
+
+[14:10:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:10:19]  ===============================
+
+[14:10:19]   Loaded.
+[14:10:19]  Loaded 3 plugins.
+
+[14:10:19] 
+[14:10:19] Filterscripts
+[14:10:19] ---------------
+[14:10:19]   Loaded 0 filterscripts.
+
+[14:10:19] Mysql connection success!
+[14:10:19] Number of vehicle models: 0
+[14:10:50] [connection] incoming connection: 114.125.85.222:36640 id: 0
+[14:10:51] [join] Malih_Santoso has joined the server (0:114.125.85.222)
+[14:11:00] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:17] filterscripts = ""  (string)
+[14:20:17] 
+[14:20:17] Server Plugins
+[14:20:17] --------------
+[14:20:17]  Loading plugin: mysql
+[14:20:17]  >> plugin.mysql: R41-4 successfully loaded.
+[14:20:17]   Loaded.
+[14:20:17]  Loading plugin: pawncmd
+[14:20:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:20:17]   Loaded.
+[14:20:17]  Loading plugin: sscanf
+[14:20:17] 
+
+[14:20:17]  ===============================
+
+[14:20:17]       sscanf plugin loaded.     
+
+[14:20:17]          Version:  2.8.3        
+
+[14:20:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:20:17]  ===============================
+
+[14:20:17]   Loaded.
+[14:20:17]  Loaded 3 plugins.
+
+[14:20:17] 
+[14:20:17] Filterscripts
+[14:20:17] ---------------
+[14:20:17]   Loaded 0 filterscripts.
+
+[14:20:17] Mysql connection success!
+[14:20:17] Number of vehicle models: 0
+[14:20:44] [connection] incoming connection: 114.125.85.222:35314 id: 0
+[14:20:45] [join] Malih_Santoso has joined the server (0:114.125.85.222)
+[14:20:56] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:22:26] filterscripts = ""  (string)
+[14:22:26] 
+[14:22:26] Server Plugins
+[14:22:26] --------------
+[14:22:26]  Loading plugin: mysql
+[14:22:26]  >> plugin.mysql: R41-4 successfully loaded.
+[14:22:26]   Loaded.
+[14:22:26]  Loading plugin: pawncmd
+[14:22:26] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:22:26]   Loaded.
+[14:22:26]  Loading plugin: sscanf
+[14:22:26] 
+
+[14:22:26]  ===============================
+
+[14:22:26]       sscanf plugin loaded.     
+
+[14:22:26]          Version:  2.8.3        
+
+[14:22:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:22:26]  ===============================
+
+[14:22:26]   Loaded.
+[14:22:26]  Loaded 3 plugins.
+
+[14:22:26] 
+[14:22:26] Filterscripts
+[14:22:26] ---------------
+[14:22:26]   Loaded 0 filterscripts.
+
+[14:22:26] Mysql connection success!
+[14:22:26] Number of vehicle models: 0
+[14:22:47] [connection] incoming connection: 114.125.85.222:43625 id: 0
+[14:22:48] [join] Malih_Santoso has joined the server (0:114.125.85.222)
+[14:24:12] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:26:37] filterscripts = ""  (string)
+[14:26:37] 
+[14:26:37] Server Plugins
+[14:26:37] --------------
+[14:26:37]  Loading plugin: mysql
+[14:26:37]  >> plugin.mysql: R41-4 successfully loaded.
+[14:26:37]   Loaded.
+[14:26:37]  Loading plugin: pawncmd
+[14:26:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:26:37]   Loaded.
+[14:26:37]  Loading plugin: sscanf
+[14:26:37] 
+
+[14:26:37]  ===============================
+
+[14:26:37]       sscanf plugin loaded.     
+
+[14:26:37]          Version:  2.8.3        
+
+[14:26:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:26:37]  ===============================
+
+[14:26:37]   Loaded.
+[14:26:37]  Loaded 3 plugins.
+
+[14:26:37] 
+[14:26:37] Filterscripts
+[14:26:37] ---------------
+[14:26:37]   Loaded 0 filterscripts.
+
+[14:26:37] Mysql connection success!
+[14:26:37] Number of vehicle models: 0
+[14:27:02] [connection] incoming connection: 114.125.85.222:52550 id: 0
+[14:27:03] [join] Malih_Santoso has joined the server (0:114.125.85.222)
+[14:27:21] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:17:09] filterscripts = ""  (string)
+[22:17:09] 
+[22:17:09] Server Plugins
+[22:17:09] --------------
+[22:17:09]  Loading plugin: mysql
+[22:17:09]  >> plugin.mysql: R41-4 successfully loaded.
+[22:17:09]   Loaded.
+[22:17:09]  Loading plugin: pawncmd
+[22:17:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:17:09]   Loaded.
+[22:17:09]  Loading plugin: sscanf
+[22:17:09] 
+
+[22:17:09]  ===============================
+
+[22:17:09]       sscanf plugin loaded.     
+
+[22:17:09]          Version:  2.8.3        
+
+[22:17:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:17:09]  ===============================
+
+[22:17:09]   Loaded.
+[22:17:09]  Loaded 3 plugins.
+
+[22:17:09] 
+[22:17:09] Filterscripts
+[22:17:09] ---------------
+[22:17:09]   Loaded 0 filterscripts.
+
+[22:17:09] Mysql connection success!
+[22:17:09] Number of vehicle models: 0
+[22:17:39] [connection] incoming connection: 182.1.103.182:32992 id: 0
+[22:17:39] [join] Malih_Santoso has joined the server (0:182.1.103.182)
+[22:18:24] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:28:13] filterscripts = ""  (string)
+[22:28:13] 
+[22:28:13] Server Plugins
+[22:28:13] --------------
+[22:28:13]  Loading plugin: mysql
+[22:28:13]  >> plugin.mysql: R41-4 successfully loaded.
+[22:28:13]   Loaded.
+[22:28:13]  Loading plugin: pawncmd
+[22:28:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:28:13]   Loaded.
+[22:28:13]  Loading plugin: sscanf
+[22:28:13] 
+
+[22:28:13]  ===============================
+
+[22:28:13]       sscanf plugin loaded.     
+
+[22:28:13]          Version:  2.8.3        
+
+[22:28:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:28:13]  ===============================
+
+[22:28:13]   Loaded.
+[22:28:13]  Loaded 3 plugins.
+
+[22:28:14] 
+[22:28:14] Filterscripts
+[22:28:14] ---------------
+[22:28:14]   Loaded 0 filterscripts.
+
+[22:28:14] Mysql connection success!
+[22:28:14] Number of vehicle models: 0
+[22:28:41] [connection] incoming connection: 182.1.103.182:34625 id: 0
+[22:28:42] [join] Malih_Santoso has joined the server (0:182.1.103.182)
+[22:29:53] [part] Malih_Santoso has left the server (0:1)
+[22:30:18] [connection] incoming connection: 182.1.103.182:41045 id: 0
+[22:30:19] [join] Malih_Santoso has joined the server (0:182.1.103.182)
+[22:30:28] [part] Malih_Santoso has left the server (0:1)
+[22:32:02] [connection] incoming connection: 182.1.103.182:44332 id: 0
+[22:32:03] [join] Malih_Santoso has joined the server (0:182.1.103.182)
+[22:32:44] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:18:05] filterscripts = ""  (string)
+[10:18:05] 
+[10:18:05] Server Plugins
+[10:18:05] --------------
+[10:18:05]  Loading plugin: mysql
+[10:18:05]  >> plugin.mysql: R41-4 successfully loaded.
+[10:18:05]   Loaded.
+[10:18:05]  Loading plugin: pawncmd
+[10:18:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:18:05]   Loaded.
+[10:18:05]  Loading plugin: sscanf
+[10:18:05] 
+
+[10:18:05]  ===============================
+
+[10:18:05]       sscanf plugin loaded.     
+
+[10:18:05]          Version:  2.8.3        
+
+[10:18:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:18:05]  ===============================
+
+[10:18:05]   Loaded.
+[10:18:05]  Loaded 3 plugins.
+
+[10:18:05] 
+[10:18:05] Filterscripts
+[10:18:05] ---------------
+[10:18:05]   Loaded 0 filterscripts.
+
+[10:18:05] Mysql connection success!
+[10:18:05] Number of vehicle models: 0
+[10:19:02] [connection] incoming connection: 182.1.71.102:38824 id: 0
+[10:19:02] [join] Malih_Santoso has joined the server (0:182.1.71.102)
+[10:19:07] [part] Malih_Santoso has left the server (0:1)
+[10:20:11] [connection] incoming connection: 182.1.71.102:49772 id: 0
+[10:20:12] [join] Malih_Santoso has joined the server (0:182.1.71.102)
+[10:21:00] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:17:49] filterscripts = ""  (string)
+[11:17:49] 
+[11:17:49] Server Plugins
+[11:17:49] --------------
+[11:17:49]  Loading plugin: mysql
+[11:17:49]  >> plugin.mysql: R41-4 successfully loaded.
+[11:17:49]   Loaded.
+[11:17:49]  Loading plugin: pawncmd
+[11:17:49] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:17:49]   Loaded.
+[11:17:49]  Loading plugin: sscanf
+[11:17:49] 
+
+[11:17:49]  ===============================
+
+[11:17:49]       sscanf plugin loaded.     
+
+[11:17:49]          Version:  2.8.3        
+
+[11:17:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:17:49]  ===============================
+
+[11:17:49]   Loaded.
+[11:17:49]  Loaded 3 plugins.
+
+[11:17:49] 
+[11:17:49] Filterscripts
+[11:17:49] ---------------
+[11:17:49]   Loaded 0 filterscripts.
+
+[11:17:49] Mysql connection success!
+[11:17:49] Number of vehicle models: 0
+[11:18:19] [connection] incoming connection: 182.1.71.102:38247 id: 0
+[11:18:20] [join] Malih_Santoso has joined the server (0:182.1.71.102)
+[11:18:59] [part] Malih_Santoso has left the server (0:0)
+[11:20:42] [connection] incoming connection: 182.1.71.102:45263 id: 0
+[11:20:43] [join] Malih_Santoso has joined the server (0:182.1.71.102)
+[11:21:24] [part] Malih_Santoso has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:15:47] filterscripts = ""  (string)
+[16:15:47] 
+[16:15:47] Server Plugins
+[16:15:47] --------------
+[16:15:47]  Loading plugin: mysql
+[16:15:47]  >> plugin.mysql: R41-4 successfully loaded.
+[16:15:47]   Loaded.
+[16:15:47]  Loading plugin: pawncmd
+[16:15:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:15:48]   Loaded.
+[16:15:48]  Loading plugin: sscanf
+[16:15:48] 
+
+[16:15:48]  ===============================
+
+[16:15:48]       sscanf plugin loaded.     
+
+[16:15:48]          Version:  2.8.3        
+
+[16:15:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:15:48]  ===============================
+
+[16:15:48]   Loaded.
+[16:15:48]  Loaded 3 plugins.
+
+[16:15:48] Unable to start server on 172.31.3.136:7779. Port in use?
+[16:15:48] 
+[16:15:48] Filterscripts
+[16:15:48] ---------------
+[16:15:48]   Loaded 0 filterscripts.
+
+[16:15:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:16:17] filterscripts = ""  (string)
+[16:16:17] 
+[16:16:17] Server Plugins
+[16:16:17] --------------
+[16:16:17]  Loading plugin: mysql
+[16:16:17]  >> plugin.mysql: R41-4 successfully loaded.
+[16:16:17]   Loaded.
+[16:16:17]  Loading plugin: pawncmd
+[16:16:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:16:17]   Loaded.
+[16:16:17]  Loading plugin: sscanf
+[16:16:17] 
+
+[16:16:17]  ===============================
+
+[16:16:17]       sscanf plugin loaded.     
+
+[16:16:17]          Version:  2.8.3        
+
+[16:16:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:16:17]  ===============================
+
+[16:16:17]   Loaded.
+[16:16:17]  Loaded 3 plugins.
+
+[16:16:17] 
+[16:16:17] Filterscripts
+[16:16:17] ---------------
+[16:16:17]   Loaded 0 filterscripts.
+
+[16:16:17] Mysql connection success!
+[16:16:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:23:58] filterscripts = ""  (string)
+[16:23:58] 
+[16:23:58] Server Plugins
+[16:23:58] --------------
+[16:23:58]  Loading plugin: mysql
+[16:23:58]  >> plugin.mysql: R41-4 successfully loaded.
+[16:23:58]   Loaded.
+[16:23:58]  Loading plugin: pawncmd
+[16:23:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:23:58]   Loaded.
+[16:23:58]  Loading plugin: sscanf
+[16:23:59] 
+
+[16:23:59]  ===============================
+
+[16:23:59]       sscanf plugin loaded.     
+
+[16:23:59]          Version:  2.8.3        
+
+[16:23:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:23:59]  ===============================
+
+[16:23:59]   Loaded.
+[16:23:59]  Loaded 3 plugins.
+
+[16:23:59] 
+[16:23:59] Filterscripts
+[16:23:59] ---------------
+[16:23:59]   Loaded 0 filterscripts.
+
+[16:23:59] [SQL] - Connection Estabilished!
+[16:23:59] Number of vehicle models: 0
+[16:24:42] [connection] incoming connection: 127.0.0.1:57851 id: 0
+[16:24:42] [join] vyn has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:27:42] filterscripts = ""  (string)
+[16:27:42] 
+[16:27:42] Server Plugins
+[16:27:42] --------------
+[16:27:42]  Loading plugin: mysql
+[16:27:42]  >> plugin.mysql: R41-4 successfully loaded.
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: pawncmd
+[16:27:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: sscanf
+[16:27:42] 
+
+[16:27:42]  ===============================
+
+[16:27:42]       sscanf plugin loaded.     
+
+[16:27:42]          Version:  2.8.3        
+
+[16:27:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:27:42]  ===============================
+
+[16:27:42]   Loaded.
+[16:27:42]  Loaded 3 plugins.
+
+[16:27:42] 
+[16:27:42] Filterscripts
+[16:27:42] ---------------
+[16:27:42]   Loaded 0 filterscripts.
+
+[16:27:42] [SQL] - Connection Failed!
+[16:27:42] Number of vehicle models: 0
+[16:27:49] --- Server Shutting Down.
+[16:27:49] plugin.mysql: Unloading plugin...
+[16:27:49] plugin.mysql: Plugin unloaded.
+[16:27:49] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[16:27:49] 
+
+[16:27:49]  ===============================
+
+[16:27:49]      sscanf plugin unloaded.    
+
+[16:27:49]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:28:14] filterscripts = ""  (string)
+[16:28:14] 
+[16:28:14] Server Plugins
+[16:28:14] --------------
+[16:28:14]  Loading plugin: mysql
+[16:28:14]  >> plugin.mysql: R41-4 successfully loaded.
+[16:28:14]   Loaded.
+[16:28:14]  Loading plugin: pawncmd
+[16:28:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:28:14]   Loaded.
+[16:28:14]  Loading plugin: sscanf
+[16:28:14] 
+
+[16:28:14]  ===============================
+
+[16:28:14]       sscanf plugin loaded.     
+
+[16:28:14]          Version:  2.8.3        
+
+[16:28:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:28:14]  ===============================
+
+[16:28:14]   Loaded.
+[16:28:14]  Loaded 3 plugins.
+
+[16:28:14] 
+[16:28:14] Filterscripts
+[16:28:14] ---------------
+[16:28:14]   Loaded 0 filterscripts.
+
+[16:28:14] [SQL] - Connection Estabilished!
+[16:28:14] Number of vehicle models: 0
+[16:28:17] [connection] incoming connection: 127.0.0.1:57538 id: 0
+[16:28:17] [join] vyn has joined the server (0:127.0.0.1)
+[16:28:59] [part] vyn has left the server (0:1)
+[16:31:07] --- Server Shutting Down.
+[16:31:07] plugin.mysql: Unloading plugin...
+[16:31:07] plugin.mysql: Plugin unloaded.
+[16:31:07] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[16:31:07] 
+
+[16:31:07]  ===============================
+
+[16:31:07]      sscanf plugin unloaded.    
+
+[16:31:07]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:31:09] filterscripts = ""  (string)
+[16:31:09] 
+[16:31:09] Server Plugins
+[16:31:09] --------------
+[16:31:09]  Loading plugin: mysql
+[16:31:09]  >> plugin.mysql: R41-4 successfully loaded.
+[16:31:09]   Loaded.
+[16:31:09]  Loading plugin: pawncmd
+[16:31:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:31:09]   Loaded.
+[16:31:09]  Loading plugin: sscanf
+[16:31:09] 
+
+[16:31:09]  ===============================
+
+[16:31:09]       sscanf plugin loaded.     
+
+[16:31:09]          Version:  2.8.3        
+
+[16:31:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:31:09]  ===============================
+
+[16:31:09]   Loaded.
+[16:31:09]  Loaded 3 plugins.
+
+[16:31:09] 
+[16:31:09] Filterscripts
+[16:31:09] ---------------
+[16:31:09]   Loaded 0 filterscripts.
+
+[16:31:09] [SQL] - Connection Estabilished!
+[16:31:09] Number of vehicle models: 0
+[16:31:41] [connection] incoming connection: 127.0.0.1:60035 id: 0
+[16:31:42] [join] Hompton has joined the server (0:127.0.0.1)
+[16:33:12] [part] Hompton has left the server (0:1)
+[16:33:25] --- Server Shutting Down.
+[16:33:25] plugin.mysql: Unloading plugin...
+[16:33:25] plugin.mysql: Plugin unloaded.
+[16:33:25] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[16:33:25] 
+
+[16:33:25]  ===============================
+
+[16:33:25]      sscanf plugin unloaded.    
+
+[16:33:25]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:58] filterscripts = ""  (string)
+[23:18:58] 
+[23:18:58] Server Plugins
+[23:18:58] --------------
+[23:18:58]  Loading plugin: mysql
+[23:18:58]  >> plugin.mysql: R41-4 successfully loaded.
+[23:18:58]   Loaded.
+[23:18:58]  Loading plugin: sscanf
+[23:18:58] 
+
+[23:18:58]  ===============================
+
+[23:18:58]       sscanf plugin loaded.     
+
+[23:18:58]          Version:  2.8.3        
+
+[23:18:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:18:58]  ===============================
+
+[23:18:58]   Loaded.
+[23:18:58]  Loaded 2 plugins.
+
+[23:18:58] 
+[23:18:58] Filterscripts
+[23:18:58] ---------------
+[23:18:58]   Loaded 0 filterscripts.
+
+[23:18:58] [SQL] - Connection Estabilished!
+[23:18:58] 
+----------------------------------
+[23:18:58]  Basic Gamemode loaded!
+[23:18:58] ----------------------------------
+
+[23:18:58] Number of vehicle models: 0
+[23:19:30] [connection] incoming connection: 127.0.0.1:55729 id: 0
+[23:19:30] [join] vyn has joined the server (0:127.0.0.1)
+[23:19:47] [part] vyn has left the server (0:2)
+[23:20:10] --- Server Shutting Down.
+[23:20:10] plugin.mysql: Unloading plugin...
+[23:20:10] plugin.mysql: Plugin unloaded.
+[23:20:10] 
+
+[23:20:10]  ===============================
+
+[23:20:10]      sscanf plugin unloaded.    
+
+[23:20:10]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:20:11] filterscripts = ""  (string)
+[23:20:11] 
+[23:20:11] Server Plugins
+[23:20:11] --------------
+[23:20:11]  Loading plugin: mysql
+[23:20:11]  >> plugin.mysql: R41-4 successfully loaded.
+[23:20:11]   Loaded.
+[23:20:11]  Loading plugin: sscanf
+[23:20:11] 
+
+[23:20:11]  ===============================
+
+[23:20:11]       sscanf plugin loaded.     
+
+[23:20:11]          Version:  2.8.3        
+
+[23:20:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:20:11]  ===============================
+
+[23:20:11]   Loaded.
+[23:20:11]  Loaded 2 plugins.
+
+[23:20:11] 
+[23:20:11] Filterscripts
+[23:20:11] ---------------
+[23:20:11]   Loaded 0 filterscripts.
+
+[23:20:11] [SQL] - Connection Estabilished!
+[23:20:11] 
+----------------------------------
+[23:20:11]  Basic Gamemode loaded!
+[23:20:11] ----------------------------------
+
+[23:20:11] Number of vehicle models: 0
+[23:20:41] [connection] incoming connection: 127.0.0.1:55795 id: 0
+[23:20:41] [join] vyn has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:40] filterscripts = ""  (string)
+[23:22:40] 
+[23:22:40] Server Plugins
+[23:22:40] --------------
+[23:22:40]  Loading plugin: mysql
+[23:22:40]  >> plugin.mysql: R41-4 successfully loaded.
+[23:22:40]   Loaded.
+[23:22:40]  Loading plugin: sscanf
+[23:22:40] 
+
+[23:22:40]  ===============================
+
+[23:22:40]       sscanf plugin loaded.     
+
+[23:22:40]          Version:  2.8.3        
+
+[23:22:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:22:40]  ===============================
+
+[23:22:40]   Loaded.
+[23:22:40]  Loaded 2 plugins.
+
+[23:22:40] 
+[23:22:40] Filterscripts
+[23:22:40] ---------------
+[23:22:40]   Loaded 0 filterscripts.
+
+[23:22:40] [SQL] - Connection Estabilished!
+[23:22:40] 
+----------------------------------
+[23:22:40]  Basic Gamemode loaded!
+[23:22:40] ----------------------------------
+
+[23:22:40] Number of vehicle models: 0
+[23:23:01] [connection] incoming connection: 127.0.0.1:55894 id: 0
+[23:23:02] [join] vyn has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:23:48] filterscripts = ""  (string)
+[23:23:48] 
+[23:23:48] Server Plugins
+[23:23:48] --------------
+[23:23:48]  Loading plugin: mysql
+[23:23:48]  >> plugin.mysql: R41-4 successfully loaded.
+[23:23:48]   Loaded.
+[23:23:48]  Loading plugin: sscanf
+[23:23:48] 
+
+[23:23:48]  ===============================
+
+[23:23:48]       sscanf plugin loaded.     
+
+[23:23:48]          Version:  2.8.3        
+
+[23:23:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:23:48]  ===============================
+
+[23:23:48]   Loaded.
+[23:23:48]  Loaded 2 plugins.
+
+[23:23:48] 
+[23:23:48] Filterscripts
+[23:23:48] ---------------
+[23:23:48]   Loaded 0 filterscripts.
+
+[23:23:48] [SQL] - Connection Estabilished!
+[23:23:48] 
+----------------------------------
+[23:23:48]  Basic Gamemode loaded!
+[23:23:48] ----------------------------------
+
+[23:23:48] Number of vehicle models: 0
+[23:24:34] [connection] incoming connection: 127.0.0.1:62326 id: 0
+[23:24:34] [join] vyn has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:27:09] filterscripts = ""  (string)
+[23:27:09] 
+[23:27:09] Server Plugins
+[23:27:09] --------------
+[23:27:09]  Loading plugin: mysql
+[23:27:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:27:09]   Loaded.
+[23:27:09]  Loading plugin: sscanf
+[23:27:09] 
+
+[23:27:09]  ===============================
+
+[23:27:09]       sscanf plugin loaded.     
+
+[23:27:09]          Version:  2.8.3        
+
+[23:27:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:27:09]  ===============================
+
+[23:27:09]   Loaded.
+[23:27:09]  Loaded 2 plugins.
+
+[23:27:09] 
+[23:27:09] Filterscripts
+[23:27:09] ---------------
+[23:27:09]   Loaded 0 filterscripts.
+
+[23:27:09] [SQL] - Connection Estabilished!
+[23:27:09] 
+----------------------------------
+[23:27:09]  Basic Gamemode loaded!
+[23:27:09] ----------------------------------
+
+[23:27:09] Number of vehicle models: 0
+[23:28:26] [connection] incoming connection: 127.0.0.1:63232 id: 0
+[23:28:27] [join] Leyvon_Caldwell has joined the server (0:127.0.0.1)
+[23:28:31] SaveFirstPlayer Called
+[23:28:34] Thread Player Called
+[23:28:34] SavePlayerData Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:30:47] filterscripts = ""  (string)
+[23:30:47] 
+[23:30:47] Server Plugins
+[23:30:47] --------------
+[23:30:47]  Loading plugin: mysql
+[23:30:47]  >> plugin.mysql: R41-4 successfully loaded.
+[23:30:47]   Loaded.
+[23:30:47]  Loading plugin: sscanf
+[23:30:47] 
+
+[23:30:47]  ===============================
+
+[23:30:47]       sscanf plugin loaded.     
+
+[23:30:47]          Version:  2.8.3        
+
+[23:30:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:30:47]  ===============================
+
+[23:30:47]   Loaded.
+[23:30:47]  Loaded 2 plugins.
+
+[23:30:47] 
+[23:30:47] Filterscripts
+[23:30:47] ---------------
+[23:30:47]   Loaded 0 filterscripts.
+
+[23:30:47] [SQL] - Connection Estabilished!
+[23:30:47] 
+----------------------------------
+[23:30:47]  Basic Gamemode loaded!
+[23:30:47] ----------------------------------
+
+[23:30:47] Number of vehicle models: 0
+[23:31:18] [connection] incoming connection: 127.0.0.1:54455 id: 0
+[23:31:18] [join] Finn has joined the server (0:127.0.0.1)
+[23:31:24] SaveFirstPlayer Called
+[23:31:29] Thread Player Called
+[23:31:29] SavePlayerData Called
+[23:32:19] [part] Finn has left the server (0:1)
+[23:32:28] --- Server Shutting Down.
+[23:32:28] plugin.mysql: Unloading plugin...
+[23:32:28] plugin.mysql: Plugin unloaded.
+[23:32:28] 
+
+[23:32:28]  ===============================
+
+[23:32:28]      sscanf plugin unloaded.    
+
+[23:32:28]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:32:34] filterscripts = ""  (string)
+[23:32:34] 
+[23:32:34] Server Plugins
+[23:32:34] --------------
+[23:32:34]  Loading plugin: mysql
+[23:32:34]  >> plugin.mysql: R41-4 successfully loaded.
+[23:32:34]   Loaded.
+[23:32:34]  Loading plugin: sscanf
+[23:32:34] 
+
+[23:32:34]  ===============================
+
+[23:32:34]       sscanf plugin loaded.     
+
+[23:32:34]          Version:  2.8.3        
+
+[23:32:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:32:34]  ===============================
+
+[23:32:34]   Loaded.
+[23:32:34]  Loaded 2 plugins.
+
+[23:32:34] 
+[23:32:34] Filterscripts
+[23:32:34] ---------------
+[23:32:34]   Loaded 0 filterscripts.
+
+[23:32:34] [SQL] - Connection Estabilished!
+[23:32:34] 
+----------------------------------
+[23:32:34]  Basic Gamemode loaded!
+[23:32:34] ----------------------------------
+
+[23:32:34] Number of vehicle models: 0
+[23:33:04] [connection] incoming connection: 127.0.0.1:61407 id: 0
+[23:33:05] [join] KonZ has joined the server (0:127.0.0.1)
+[23:33:09] SaveFirstPlayer Called
+[23:33:11] Thread Player Called
+[23:33:11] SavePlayerData Called
+[23:33:29] [part] KonZ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:36] filterscripts = ""  (string)
+[23:34:36] 
+[23:34:36] Server Plugins
+[23:34:36] --------------
+[23:34:36]  Loading plugin: mysql
+[23:34:36]  >> plugin.mysql: R41-4 successfully loaded.
+[23:34:36]   Loaded.
+[23:34:36]  Loading plugin: sscanf
+[23:34:36] 
+
+[23:34:36]  ===============================
+
+[23:34:36]       sscanf plugin loaded.     
+
+[23:34:36]          Version:  2.8.3        
+
+[23:34:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:34:36]  ===============================
+
+[23:34:36]   Loaded.
+[23:34:36]  Loaded 2 plugins.
+
+[23:34:36] 
+[23:34:36] Filterscripts
+[23:34:36] ---------------
+[23:34:36]   Loaded 0 filterscripts.
+
+[23:34:36] [SQL] - Connection Estabilished!
+[23:34:36] 
+----------------------------------
+[23:34:36]  Basic Gamemode loaded!
+[23:34:36] ----------------------------------
+
+[23:34:36] Number of vehicle models: 0
+[23:35:45] [connection] incoming connection: 127.0.0.1:49621 id: 0
+[23:35:45] [join] KonZtolz has joined the server (0:127.0.0.1)
+[23:36:09] SaveFirstPlayer Called
+[23:36:10] Thread Player Called
+[23:36:10] SavePlayerData Called
+[23:36:44] SavePlayerData Called
+[23:36:44] [part] KonZtolz has left the server (0:1)
+[23:37:18] [connection] incoming connection: 127.0.0.1:58368 id: 0
+[23:37:19] [join] KonZtolz has joined the server (0:127.0.0.1)
+[23:37:42] SavePlayerData Called
+[23:37:42] [part] KonZtolz has left the server (0:1)
+[23:38:31] --- Server Shutting Down.
+[23:38:31] plugin.mysql: Unloading plugin...
+[23:38:31] plugin.mysql: Plugin unloaded.
+[23:38:31] 
+
+[23:38:31]  ===============================
+
+[23:38:31]      sscanf plugin unloaded.    
+
+[23:38:31]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:38:36] filterscripts = ""  (string)
+[23:38:36] 
+[23:38:36] Server Plugins
+[23:38:36] --------------
+[23:38:36]  Loading plugin: mysql
+[23:38:36]  >> plugin.mysql: R41-4 successfully loaded.
+[23:38:36]   Loaded.
+[23:38:36]  Loading plugin: sscanf
+[23:38:36] 
+
+[23:38:36]  ===============================
+
+[23:38:36]       sscanf plugin loaded.     
+
+[23:38:36]          Version:  2.8.3        
+
+[23:38:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:38:36]  ===============================
+
+[23:38:36]   Loaded.
+[23:38:36]  Loaded 2 plugins.
+
+[23:38:36] 
+[23:38:36] Filterscripts
+[23:38:36] ---------------
+[23:38:36]   Loaded 0 filterscripts.
+
+[23:38:36] [SQL] - Connection Estabilished!
+[23:38:36] 
+----------------------------------
+[23:38:36]  Basic Gamemode loaded!
+[23:38:36] ----------------------------------
+
+[23:38:36] Number of vehicle models: 0
+[23:39:10] [connection] incoming connection: 127.0.0.1:65086 id: 0
+[23:39:10] [join] KonZtolz has joined the server (0:127.0.0.1)
+[23:39:17] Thread Login Called
+[23:42:42] SavePlayerData Called
+[23:42:42] [part] KonZtolz has left the server (0:1)
+[23:43:26] [connection] incoming connection: 127.0.0.1:53196 id: 0
+[23:43:26] [join] KonZtolz has joined the server (0:127.0.0.1)
+[23:43:30] Thread Login Called
+[23:43:44] SavePlayerData Called
+[23:43:44] [part] KonZtolz has left the server (0:1)
+[23:44:16] [connection] incoming connection: 127.0.0.1:64406 id: 0
+[23:44:17] [join] KonZtolz has joined the server (0:127.0.0.1)
+[23:44:19] Thread Login Called
+[23:44:30] SavePlayerData Called
+[23:44:30] [part] KonZtolz has left the server (0:1)
+[23:46:39] [connection] incoming connection: 127.0.0.1:60274 id: 0
+[23:46:39] [join] KonZci has joined the server (0:127.0.0.1)
+[23:46:42] SaveFirstPlayer Called
+[23:46:44] Thread Player Called
+[23:46:44] SavePlayerData Called
+[23:46:48] SavePlayerData Called
+[23:46:48] [part] KonZci has left the server (0:1)
+[23:47:19] [connection] incoming connection: 127.0.0.1:59490 id: 0
+[23:47:19] [join] KonZci has joined the server (0:127.0.0.1)
+[23:47:22] Thread Login Called
+[23:58:49] SavePlayerData Called
+[23:58:49] [part] KonZci has left the server (0:1)
+[23:58:55] --- Server Shutting Down.
+[23:58:55] plugin.mysql: Unloading plugin...
+[23:58:55] plugin.mysql: Plugin unloaded.
+[23:58:55] 
+
+[23:58:55]  ===============================
+
+[23:58:55]      sscanf plugin unloaded.    
+
+[23:58:55]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:58:56] filterscripts = ""  (string)
+[23:58:56] 
+[23:58:56] Server Plugins
+[23:58:56] --------------
+[23:58:56]  Loading plugin: mysql
+[23:58:56]  >> plugin.mysql: R41-4 successfully loaded.
+[23:58:56]   Loaded.
+[23:58:56]  Loading plugin: sscanf
+[23:58:56] 
+
+[23:58:56]  ===============================
+
+[23:58:56]       sscanf plugin loaded.     
+
+[23:58:56]          Version:  2.8.3        
+
+[23:58:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:58:56]  ===============================
+
+[23:58:56]   Loaded.
+[23:58:56]  Loaded 2 plugins.
+
+[23:58:56] 
+[23:58:56] Filterscripts
+[23:58:56] ---------------
+[23:58:56]   Loaded 0 filterscripts.
+
+[23:58:56] [SQL] - Connection Estabilished!
+[23:58:56] 
+----------------------------------
+[23:58:56]  Basic Gamemode loaded!
+[23:58:56] ----------------------------------
+
+[23:58:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:45] filterscripts = ""  (string)
+[23:59:45] 
+[23:59:45] Server Plugins
+[23:59:45] --------------
+[23:59:45]  Loading plugin: mysql
+[23:59:45]  >> plugin.mysql: R41-4 successfully loaded.
+[23:59:45]   Loaded.
+[23:59:45]  Loading plugin: sscanf
+[23:59:45] 
+
+[23:59:45]  ===============================
+
+[23:59:45]       sscanf plugin loaded.     
+
+[23:59:45]          Version:  2.8.3        
+
+[23:59:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:59:45]  ===============================
+
+[23:59:45]   Loaded.
+[23:59:45]  Loaded 2 plugins.
+
+[23:59:45] 
+[23:59:45] Filterscripts
+[23:59:45] ---------------
+[23:59:45]   Loaded 0 filterscripts.
+
+[23:59:45] [SQL] - Connection Estabilished!
+[23:59:45] 
+----------------------------------
+[23:59:45]  Basic Gamemode loaded!
+[23:59:45] ----------------------------------
+
+[23:59:45] Number of vehicle models: 0
+[00:00:01] [connection] incoming connection: 127.0.0.1:64762 id: 0
+[00:00:01] [join] KonZci has joined the server (0:127.0.0.1)
+[00:00:05] Thread Login Called
+[00:01:00] SavePlayerData Called
+[00:01:00] [part] KonZci has left the server (0:1)
+[00:01:40] [connection] incoming connection: 127.0.0.1:61419 id: 0
+[00:01:40] [join] KonZci has joined the server (0:127.0.0.1)
+[00:01:43] Thread Login Called
+[00:14:17] SavePlayerData Called
+[00:14:17] [part] KonZci has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:23] filterscripts = ""  (string)
+[00:14:23] 
+[00:14:23] Server Plugins
+[00:14:23] --------------
+[00:14:23]  Loading plugin: mysql
+[00:14:23]  >> plugin.mysql: R41-4 successfully loaded.
+[00:14:23]   Loaded.
+[00:14:23]  Loading plugin: sscanf
+[00:14:23] 
+
+[00:14:23]  ===============================
+
+[00:14:23]       sscanf plugin loaded.     
+
+[00:14:23]          Version:  2.8.3        
+
+[00:14:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:14:23]  ===============================
+
+[00:14:23]   Loaded.
+[00:14:23]  Loaded 2 plugins.
+
+[00:14:23] 
+[00:14:23] Filterscripts
+[00:14:23] ---------------
+[00:14:23]   Loaded 0 filterscripts.
+
+[00:14:23] [SQL] - Connection Estabilished!
+[00:14:23] 
+----------------------------------
+[00:14:23]  Basic Gamemode loaded!
+[00:14:23] ----------------------------------
+
+[00:14:23] Number of vehicle models: 0
+[00:14:50] [connection] incoming connection: 127.0.0.1:55875 id: 0
+[00:14:50] [join] KonZci has joined the server (0:127.0.0.1)
+[00:14:59] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:38:16] filterscripts = ""  (string)
+[00:38:16] 
+[00:38:16] Server Plugins
+[00:38:16] --------------
+[00:38:16]  Loading plugin: mysql
+[00:38:16]  >> plugin.mysql: R41-4 successfully loaded.
+[00:38:16]   Loaded.
+[00:38:16]  Loading plugin: sscanf
+[00:38:16] 
+
+[00:38:16]  ===============================
+
+[00:38:16]       sscanf plugin loaded.     
+
+[00:38:16]          Version:  2.8.3        
+
+[00:38:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:38:16]  ===============================
+
+[00:38:16]   Loaded.
+[00:38:16]  Loaded 2 plugins.
+
+[00:38:16] 
+[00:38:16] Filterscripts
+[00:38:16] ---------------
+[00:38:16]   Loaded 0 filterscripts.
+
+[00:38:16] [SQL] - Connection Estabilished!
+[00:38:16] 
+----------------------------------
+[00:38:16]  Basic Gamemode loaded!
+[00:38:16] ----------------------------------
+
+[00:38:16] Number of vehicle models: 0
+[00:38:31] [connection] incoming connection: 127.0.0.1:56192 id: 0
+[00:38:32] [join] KonZci has joined the server (0:127.0.0.1)
+[00:38:36] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:39:12] filterscripts = ""  (string)
+[00:39:12] 
+[00:39:12] Server Plugins
+[00:39:12] --------------
+[00:39:12]  Loading plugin: mysql
+[00:39:12]  >> plugin.mysql: R41-4 successfully loaded.
+[00:39:12]   Loaded.
+[00:39:12]  Loading plugin: sscanf
+[00:39:12] 
+
+[00:39:12]  ===============================
+
+[00:39:12]       sscanf plugin loaded.     
+
+[00:39:12]          Version:  2.8.3        
+
+[00:39:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:39:12]  ===============================
+
+[00:39:12]   Loaded.
+[00:39:12]  Loaded 2 plugins.
+
+[00:39:12] 
+[00:39:12] Filterscripts
+[00:39:12] ---------------
+[00:39:12]   Loaded 0 filterscripts.
+
+[00:39:12] [SQL] - Connection Estabilished!
+[00:39:12] 
+----------------------------------
+[00:39:12]  Basic Gamemode loaded!
+[00:39:12] ----------------------------------
+
+[00:39:12] Number of vehicle models: 0
+[00:39:26] [connection] incoming connection: 127.0.0.1:61039 id: 0
+[00:39:27] [join] KonZci has joined the server (0:127.0.0.1)
+[00:39:30] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:40:31] filterscripts = ""  (string)
+[00:40:31] 
+[00:40:31] Server Plugins
+[00:40:31] --------------
+[00:40:31]  Loading plugin: mysql
+[00:40:31]  >> plugin.mysql: R41-4 successfully loaded.
+[00:40:31]   Loaded.
+[00:40:31]  Loading plugin: sscanf
+[00:40:31] 
+
+[00:40:31]  ===============================
+
+[00:40:31]       sscanf plugin loaded.     
+
+[00:40:31]          Version:  2.8.3        
+
+[00:40:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:40:31]  ===============================
+
+[00:40:31]   Loaded.
+[00:40:31]  Loaded 2 plugins.
+
+[00:40:31] 
+[00:40:31] Filterscripts
+[00:40:31] ---------------
+[00:40:31]   Loaded 0 filterscripts.
+
+[00:40:31] [SQL] - Connection Estabilished!
+[00:40:31] 
+----------------------------------
+[00:40:31]  Basic Gamemode loaded!
+[00:40:31] ----------------------------------
+
+[00:40:31] Number of vehicle models: 0
+[00:40:42] [connection] incoming connection: 127.0.0.1:52722 id: 0
+[00:40:43] [join] KonZci has joined the server (0:127.0.0.1)
+[00:40:47] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:41:33] filterscripts = ""  (string)
+[00:41:33] 
+[00:41:33] Server Plugins
+[00:41:33] --------------
+[00:41:33]  Loading plugin: mysql
+[00:41:33]  >> plugin.mysql: R41-4 successfully loaded.
+[00:41:33]   Loaded.
+[00:41:33]  Loading plugin: sscanf
+[00:41:33] 
+
+[00:41:33]  ===============================
+
+[00:41:33]       sscanf plugin loaded.     
+
+[00:41:33]          Version:  2.8.3        
+
+[00:41:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:41:33]  ===============================
+
+[00:41:33]   Loaded.
+[00:41:33]  Loaded 2 plugins.
+
+[00:41:33] 
+[00:41:33] Filterscripts
+[00:41:33] ---------------
+[00:41:33]   Loaded 0 filterscripts.
+
+[00:41:33] [SQL] - Connection Estabilished!
+[00:41:33] 
+----------------------------------
+[00:41:33]  Basic Gamemode loaded!
+[00:41:33] ----------------------------------
+
+[00:41:33] Number of vehicle models: 0
+[00:41:43] [connection] incoming connection: 127.0.0.1:52724 id: 0
+[00:41:43] [join] KonZci has joined the server (0:127.0.0.1)
+[00:41:47] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:42:55] filterscripts = ""  (string)
+[00:42:55] 
+[00:42:55] Server Plugins
+[00:42:55] --------------
+[00:42:55]  Loading plugin: mysql
+[00:42:55]  >> plugin.mysql: R41-4 successfully loaded.
+[00:42:55]   Loaded.
+[00:42:55]  Loading plugin: sscanf
+[00:42:55] 
+
+[00:42:55]  ===============================
+
+[00:42:55]       sscanf plugin loaded.     
+
+[00:42:55]          Version:  2.8.3        
+
+[00:42:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:42:55]  ===============================
+
+[00:42:55]   Loaded.
+[00:42:55]  Loaded 2 plugins.
+
+[00:42:55] 
+[00:42:55] Filterscripts
+[00:42:55] ---------------
+[00:42:55]   Loaded 0 filterscripts.
+
+[00:42:55] [SQL] - Connection Estabilished!
+[00:42:55] 
+----------------------------------
+[00:42:55]  Basic Gamemode loaded!
+[00:42:55] ----------------------------------
+
+[00:42:55] Number of vehicle models: 0
+[00:43:09] [connection] incoming connection: 127.0.0.1:52728 id: 0
+[00:43:09] [join] KonZci has joined the server (0:127.0.0.1)
+[00:43:12] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:43:24] filterscripts = ""  (string)
+[00:43:24] 
+[00:43:24] Server Plugins
+[00:43:24] --------------
+[00:43:24]  Loading plugin: mysql
+[00:43:24]  >> plugin.mysql: R41-4 successfully loaded.
+[00:43:24]   Loaded.
+[00:43:24]  Loading plugin: sscanf
+[00:43:24] 
+
+[00:43:24]  ===============================
+
+[00:43:24]       sscanf plugin loaded.     
+
+[00:43:24]          Version:  2.8.3        
+
+[00:43:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:43:24]  ===============================
+
+[00:43:24]   Loaded.
+[00:43:24]  Loaded 2 plugins.
+
+[00:43:24] 
+[00:43:24] Filterscripts
+[00:43:24] ---------------
+[00:43:24]   Loaded 0 filterscripts.
+
+[00:43:24] [SQL] - Connection Estabilished!
+[00:43:24] 
+----------------------------------
+[00:43:24]  Basic Gamemode loaded!
+[00:43:24] ----------------------------------
+
+[00:43:24] Number of vehicle models: 0
+[00:43:52] [connection] incoming connection: 127.0.0.1:52729 id: 0
+[00:43:52] [join] KonZci has joined the server (0:127.0.0.1)
+[00:43:56] Thread Login Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:44:37] filterscripts = ""  (string)
+[00:44:37] 
+[00:44:37] Server Plugins
+[00:44:37] --------------
+[00:44:37]  Loading plugin: mysql
+[00:44:37]  >> plugin.mysql: R41-4 successfully loaded.
+[00:44:37]   Loaded.
+[00:44:37]  Loading plugin: sscanf
+[00:44:37] 
+
+[00:44:37]  ===============================
+
+[00:44:37]       sscanf plugin loaded.     
+
+[00:44:37]          Version:  2.8.3        
+
+[00:44:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:44:37]  ===============================
+
+[00:44:37]   Loaded.
+[00:44:37]  Loaded 2 plugins.
+
+[00:44:37] 
+[00:44:37] Filterscripts
+[00:44:37] ---------------
+[00:44:37]   Loaded 0 filterscripts.
+
+[00:44:37] [SQL] - Connection Estabilished!
+[00:44:37] 
+----------------------------------
+[00:44:37]  Basic Gamemode loaded!
+[00:44:37] ----------------------------------
+
+[00:44:37] Number of vehicle models: 0
+[00:44:57] [connection] incoming connection: 127.0.0.1:65427 id: 0
+[00:44:57] [join] KonZci has joined the server (0:127.0.0.1)
+[00:45:00] Thread Login Called
+[00:45:08] SavePlayerData Called
+[00:45:08] [part] KonZci has left the server (0:1)
+[00:46:04] --- Server Shutting Down.
+[00:46:04] plugin.mysql: Unloading plugin...
+[00:46:04] plugin.mysql: Plugin unloaded.
+[00:46:04] 
+
+[00:46:04]  ===============================
+
+[00:46:04]      sscanf plugin unloaded.    
+
+[00:46:04]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:15:15] filterscripts = ""  (string)
+[10:15:15] 
+[10:15:15] Server Plugins
+[10:15:15] --------------
+[10:15:15]  Loading plugin: mysql
+[10:15:15]  >> plugin.mysql: R41-4 successfully loaded.
+[10:15:15]   Loaded.
+[10:15:15]  Loading plugin: sscanf
+[10:15:15] 
+
+[10:15:15]  ===============================
+
+[10:15:15]       sscanf plugin loaded.     
+
+[10:15:15]          Version:  2.8.3        
+
+[10:15:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:15:15]  ===============================
+
+[10:15:15]   Loaded.
+[10:15:15]  Loaded 2 plugins.
+
+[10:15:15] 
+[10:15:15] Filterscripts
+[10:15:15] ---------------
+[10:15:15]   Loaded 0 filterscripts.
+
+[10:15:15] [SQL] - Connection Estabilished!
+[10:15:15] 
+----------------------------------
+[10:15:15]  Basic Gamemode loaded!
+[10:15:15] ----------------------------------
+
+[10:15:15] Number of vehicle models: 0
+[10:16:38] [connection] incoming connection: 127.0.0.1:54858 id: 0
+[10:16:39] [join] Finn_Xanderz has joined the server (0:127.0.0.1)
+[10:16:46] SaveFirstPlayer Called
+[10:16:50] Thread Player Called
+[10:16:50] SavePlayerData Called
+[10:17:40] SavePlayerData Called
+[10:17:40] [part] Finn_Xanderz has left the server (0:1)
+[10:18:55] [connection] incoming connection: 127.0.0.1:64249 id: 0
+[10:18:55] [join] Finn_Xanderz has joined the server (0:127.0.0.1)
+[10:19:12] SavePlayerData Called
+[10:19:12] [part] Finn_Xanderz has left the server (0:2)
+[10:20:25] --- Server Shutting Down.
+[10:20:25] plugin.mysql: Unloading plugin...
+[10:20:25] plugin.mysql: Plugin unloaded.
+[10:20:25] 
+
+[10:20:25]  ===============================
+
+[10:20:25]      sscanf plugin unloaded.    
+
+[10:20:25]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:21:18] filterscripts = ""  (string)
+[10:21:18] 
+[10:21:18] Server Plugins
+[10:21:18] --------------
+[10:21:18]  Loading plugin: mysql
+[10:21:18]  >> plugin.mysql: R41-4 successfully loaded.
+[10:21:18]   Loaded.
+[10:21:18]  Loading plugin: sscanf
+[10:21:18] 
+
+[10:21:18]  ===============================
+
+[10:21:18]       sscanf plugin loaded.     
+
+[10:21:18]          Version:  2.8.3        
+
+[10:21:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:21:18]  ===============================
+
+[10:21:18]   Loaded.
+[10:21:18]  Loaded 2 plugins.
+
+[10:21:18] 
+[10:21:18] Filterscripts
+[10:21:18] ---------------
+[10:21:18]   Loaded 0 filterscripts.
+
+[10:21:18] [SQL] - Connection Estabilished!
+[10:21:18] 
+----------------------------------
+[10:21:18]  Basic Gamemode loaded!
+[10:21:18] ----------------------------------
+
+[10:21:18] Number of vehicle models: 0
+[10:21:27] [connection] incoming connection: 127.0.0.1:51064 id: 0
+[10:21:29] [join] Finn_Jazzy has joined the server (0:127.0.0.1)
+[10:21:36] SaveFirstPlayer Called
+[10:21:40] Thread Player Called
+[10:21:40] SavePlayerData Called
+[10:22:04] SavePlayerData Called
+[10:22:04] [part] Finn_Jazzy has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:25:08] filterscripts = ""  (string)
+[10:25:08] 
+[10:25:08] Server Plugins
+[10:25:08] --------------
+[10:25:08]  Loading plugin: mysql
+[10:25:08]  >> plugin.mysql: R41-4 successfully loaded.
+[10:25:08]   Loaded.
+[10:25:08]  Loading plugin: sscanf
+[10:25:08] 
+
+[10:25:08]  ===============================
+
+[10:25:08]       sscanf plugin loaded.     
+
+[10:25:08]          Version:  2.8.3        
+
+[10:25:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:25:08]  ===============================
+
+[10:25:08]   Loaded.
+[10:25:08]  Loaded 2 plugins.
+
+[10:25:08] 
+[10:25:08] Filterscripts
+[10:25:08] ---------------
+[10:25:08]   Loaded 0 filterscripts.
+
+[10:25:08] [SQL] - Connection Estabilished!
+[10:25:08] 
+----------------------------------
+[10:25:08]  Basic Gamemode loaded!
+[10:25:08] ----------------------------------
+
+[10:25:08] Number of vehicle models: 0
+[10:25:11] [connection] incoming connection: 127.0.0.1:63862 id: 0
+[10:25:11] [join] knt has joined the server (0:127.0.0.1)
+[10:25:18] SaveFirstPlayer Called
+[10:25:20] Thread Player Called
+[10:25:20] SavePlayerData Called
+[10:25:34] SavePlayerData Called
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:26:26] filterscripts = ""  (string)
+[10:26:26] 
+[10:26:26] Server Plugins
+[10:26:26] --------------
+[10:26:26]  Loading plugin: mysql
+[10:26:26]  >> plugin.mysql: R41-4 successfully loaded.
+[10:26:26]   Loaded.
+[10:26:26]  Loading plugin: sscanf
+[10:26:26] 
+
+[10:26:26]  ===============================
+
+[10:26:26]       sscanf plugin loaded.     
+
+[10:26:26]          Version:  2.8.3        
+
+[10:26:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:26:26]  ===============================
+
+[10:26:26]   Loaded.
+[10:26:26]  Loaded 2 plugins.
+
+[10:26:26] 
+[10:26:26] Filterscripts
+[10:26:26] ---------------
+[10:26:26]   Loaded 0 filterscripts.
+
+[10:26:26] [SQL] - Connection Estabilished!
+[10:26:26] 
+----------------------------------
+[10:26:26]  Basic Gamemode loaded!
+[10:26:26] ----------------------------------
+
+[10:26:26] Number of vehicle models: 0
+[10:26:44] [connection] incoming connection: 127.0.0.1:58473 id: 0
+[10:26:44] [join] knt has joined the server (0:127.0.0.1)
+[10:26:49] Thread Login Called
+[10:27:03] SavePlayerData Called
+[10:27:03] [part] knt has left the server (0:1)
+[10:27:40] [connection] incoming connection: 127.0.0.1:57738 id: 0
+[10:27:40] [join] kntl has joined the server (0:127.0.0.1)
+[10:27:44] SaveFirstPlayer Called
+[10:27:45] Thread Player Called
+[10:27:45] SavePlayerData Called
+[10:27:51] SavePlayerData Called
+[10:29:28] SavePlayerData Called
+[10:29:28] [part] kntl has left the server (0:1)
+[10:29:36] --- Server Shutting Down.
+[10:29:36] plugin.mysql: Unloading plugin...
+[10:29:36] plugin.mysql: Plugin unloaded.
+[10:29:36] 
+
+[10:29:36]  ===============================
+
+[10:29:36]      sscanf plugin unloaded.    
+
+[10:29:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:29:40] filterscripts = ""  (string)
+[10:29:40] 
+[10:29:40] Server Plugins
+[10:29:40] --------------
+[10:29:40]  Loading plugin: mysql
+[10:29:40]  >> plugin.mysql: R41-4 successfully loaded.
+[10:29:40]   Loaded.
+[10:29:40]  Loading plugin: sscanf
+[10:29:40] 
+
+[10:29:40]  ===============================
+
+[10:29:40]       sscanf plugin loaded.     
+
+[10:29:40]          Version:  2.8.3        
+
+[10:29:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:29:40]  ===============================
+
+[10:29:40]   Loaded.
+[10:29:40]  Loaded 2 plugins.
+
+[10:29:40] 
+[10:29:40] Filterscripts
+[10:29:40] ---------------
+[10:29:40]   Loaded 0 filterscripts.
+
+[10:29:40] [SQL] - Connection Estabilished!
+[10:29:40] 
+----------------------------------
+[10:29:40]  Basic Gamemode loaded!
+[10:29:40] ----------------------------------
+
+[10:29:40] Number of vehicle models: 0
+[10:30:38] [connection] incoming connection: 127.0.0.1:65044 id: 0
+[10:30:38] [join] kntlzz has joined the server (0:127.0.0.1)
+[10:30:43] SaveFirstPlayer Called
+[10:30:44] Thread Player Called
+[10:30:44] SavePlayerData Called
+[10:30:48] SavePlayerData Called
+[10:36:48] SavePlayerData Called
+[10:36:48] [part] kntlzz has left the server (0:1)
+[10:37:00] --- Server Shutting Down.
+[10:37:00] plugin.mysql: Unloading plugin...
+[10:37:00] plugin.mysql: Plugin unloaded.
+[10:37:00] 
+
+[10:37:00]  ===============================
+
+[10:37:00]      sscanf plugin unloaded.    
+
+[10:37:00]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:14:46] filterscripts = ""  (string)
+[11:14:46] 
+[11:14:46] Server Plugins
+[11:14:46] --------------
+[11:14:46]  Loading plugin: mysql
+[11:14:46]  >> plugin.mysql: R41-4 successfully loaded.
+[11:14:46]   Loaded.
+[11:14:46]  Loading plugin: sscanf
+[11:14:46] 
+
+[11:14:46]  ===============================
+
+[11:14:46]       sscanf plugin loaded.     
+
+[11:14:46]          Version:  2.8.3        
+
+[11:14:46]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:14:46]  ===============================
+
+[11:14:46]   Loaded.
+[11:14:46]  Loaded 2 plugins.
+
+[11:14:46] 
+[11:14:46] Filterscripts
+[11:14:46] ---------------
+[11:14:46]   Loaded 0 filterscripts.
+
+[11:14:46] [SQL] - Connection Estabilished!
+[11:14:46] 
+----------------------------------
+[11:14:46]  Basic Gamemode loaded!
+[11:14:46] ----------------------------------
+
+[11:14:46] Number of vehicle models: 0
+[11:15:15] [connection] incoming connection: 127.0.0.1:49330 id: 0
+[11:15:15] [join] kntlzz has joined the server (0:127.0.0.1)
+[11:15:19] Thread Login Called
+[11:15:24] Created Vehicle for kntlzz
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:23:41] filterscripts = ""  (string)
+[11:23:41] 
+[11:23:41] Server Plugins
+[11:23:41] --------------
+[11:23:41]  Loading plugin: mysql
+[11:23:42]  >> plugin.mysql: R41-4 successfully loaded.
+[11:23:42]   Loaded.
+[11:23:42]  Loading plugin: sscanf
+[11:23:42] 
+
+[11:23:42]  ===============================
+
+[11:23:42]       sscanf plugin loaded.     
+
+[11:23:42]          Version:  2.8.3        
+
+[11:23:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:23:42]  ===============================
+
+[11:23:42]   Loaded.
+[11:23:42]  Loaded 2 plugins.
+
+[11:23:42] 
+[11:23:42] Filterscripts
+[11:23:42] ---------------
+[11:23:42]   Loaded 0 filterscripts.
+
+[11:23:42] [SQL] - Connection Estabilished!
+[11:23:42] 
+----------------------------------
+[11:23:42]  Basic Gamemode loaded!
+[11:23:42] ----------------------------------
+
+[11:23:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:24:42] filterscripts = ""  (string)
+[11:24:42] 
+[11:24:42] Server Plugins
+[11:24:42] --------------
+[11:24:42]  Loading plugin: mysql
+[11:24:42]  >> plugin.mysql: R41-4 successfully loaded.
+[11:24:42]   Loaded.
+[11:24:42]  Loading plugin: sscanf
+[11:24:42] 
+
+[11:24:42]  ===============================
+
+[11:24:42]       sscanf plugin loaded.     
+
+[11:24:42]          Version:  2.8.3        
+
+[11:24:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:24:42]  ===============================
+
+[11:24:42]   Loaded.
+[11:24:42]  Loaded 2 plugins.
+
+[11:24:42] 
+[11:24:42] Filterscripts
+[11:24:42] ---------------
+[11:24:42]   Loaded 0 filterscripts.
+
+[11:24:42] [SQL] - Connection Estabilished!
+[11:24:42] 
+----------------------------------
+[11:24:42]  Basic Gamemode loaded!
+[11:24:42] ----------------------------------
+
+[11:24:42] Number of vehicle models: 0
+[11:25:13] [connection] incoming connection: 127.0.0.1:55933 id: 0
+[11:25:13] [join] kntlzz has joined the server (0:127.0.0.1)
+[11:25:18] Thread Login Called
+[11:25:35] SavePlayerData Called
+[11:25:59] Created Vehicle for kntlzz
+[11:25:59] SaveVehicle called
+[11:26:34] SavePlayerData Called
+[11:26:34] [part] kntlzz has left the server (0:1)
+[11:26:40] --- Server Shutting Down.
+[11:26:40] plugin.mysql: Unloading plugin...
+[11:26:40] plugin.mysql: Plugin unloaded.
+[11:26:40] 
+
+[11:26:40]  ===============================
+
+[11:26:40]      sscanf plugin unloaded.    
+
+[11:26:40]  ===============================
+
